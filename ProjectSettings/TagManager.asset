@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Water
+    uniqueID: 2793225619
+    locked: 0
+  - name: Background
+    uniqueID: 2253863349
+    locked: 0
+  - name: Decorations Under
+    uniqueID: 2867915033
+    locked: 0
+  - name: Collisions
+    uniqueID: 4164746709
+    locked: 0
+  - name: Buildings_Under
+    uniqueID: 1654418191
+    locked: 0
+  - name: Decorations Over
+    uniqueID: 2633291527
+    locked: 0
+  - name: Enemies
+    uniqueID: 3521113109
+    locked: 0
+  - name: Characters
+    uniqueID: 929560393
+    locked: 0
+  - name: Trees Top
+    uniqueID: 3449953723
+    locked: 0
+  - name: Buildings_Over
+    uniqueID: 2609625647
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
