@@ -4,15 +4,22 @@
 ## Описание
 "RPG" - это легкая ролевая игра, созданная в рамках дисциплины "Учебная практика". Цель проекта - разработка простейшей игры на языке программирования C# с использованием графического интерфейса и движка Unity.
 
-![image](https://github.com/user-attachments/assets/f43077f6-6f80-49af-90f4-172b7e58232a "Главное меню")
-![image](https://github.com/user-attachments/assets/d307075f-b655-4f85-9151-7965702099b5 "Внутри дома")
-![image](https://github.com/user-attachments/assets/72e334ff-5d30-4c25-a417-7b14b07cf504 "Меню паузы")
-![image](https://github.com/user-attachments/assets/192e75c4-9136-432e-8903-6b2061958a8a "Инвентарь")
-![image](https://github.com/user-attachments/assets/c4bb046b-6d38-409c-b289-8cb968629b45 "Бой с врагами")
-![image](https://github.com/user-attachments/assets/ab40932e-3e3a-480c-b9ee-14fae80dab68 "Экран смерти")
-![image](https://github.com/user-attachments/assets/b67e57f8-366e-420e-bd02-396559f108d1 "Загрузка сохранения")
-![image](https://github.com/user-attachments/assets/0e224ca3-e895-46fc-a8b9-1d8d4fc8bd86 "Кролик")
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f43077f6-6f80-49af-90f4-172b7e58232a" alt="Главное меню" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d307075f-b655-4f85-9151-7965702099b5" alt="Внутри дома" width="45%" /> 
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/72e334ff-5d30-4c25-a417-7b14b07cf504" alt="Меню паузы" width="45%" />
+  <img src="https://github.com/user-attachments/assets/192e75c4-9136-432e-8903-6b2061958a8a" alt="Инвентарь" width="45%" /> 
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c4bb046b-6d38-409c-b289-8cb968629b45" alt="Бой с врагами" width="45%" />
+  <img src="https://github.com/user-attachments/assets/ab40932e-3e3a-480c-b9ee-14fae80dab68" alt="Экран смерти" width="45%" /> 
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b67e57f8-366e-420e-bd02-396559f108d1" alt="Загрузка сохранения" width="45%" />
+  <img src="https://github.com/user-attachments/assets/0e224ca3-e895-46fc-a8b9-1d8d4fc8bd86" alt="Кролик" width="45%" /> 
+</p>
 [Ссылка на видео с демонстрацией механик игры](https://disk.yandex.ru/i/AArxFSQrFqelCg)
 
 ## Технологии:
@@ -31,11 +38,11 @@
 - **Управление**  
   `WASD` — движение  
   `Shift` — бег  
+  `E` — использование предмета  
   `Q` — взять меч  
   `F` — взаимодействие  
   `I` — открыть инвентарь  
-  `Esc` — меню паузы
-  `E` — использование предмета
+  `Esc` — меню паузы  
 
 - **Инвентарь**  
   Подбор предметов, быстрые слоты, отображение экипировки.
